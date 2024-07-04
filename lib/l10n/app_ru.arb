@@ -107,5 +107,6 @@
     "select_food": "Выбрать еду",
     "enter_food": "Введите еду",
     "enter_calories": "Введите калории",
+    "total_calories_gained": "Всего набрано калорий",
     "add_food": "Добавить еду"
 }

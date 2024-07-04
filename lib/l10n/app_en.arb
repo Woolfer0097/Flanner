@@ -107,5 +107,6 @@
     "select_food": "Select Food",
     "enter_food": "Enter Food",
     "enter_calories": "Enter Calories",
+    "total_calories_gained": "Total Calories Gained",
     "add_food": "Add Food"
 }

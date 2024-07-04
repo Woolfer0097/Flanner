@@ -148,7 +148,7 @@ class _CalorieGainScreenState extends State<CalorieGainScreen> {
                     builder: (context) => AlertDialog(
                       content: Text(
                         '${localizations.calories}: ${caloriesGained.toStringAsFixed(2)}\n'
-                        '${localizations.total_calories_burned}: ${totalCaloriesGainedToday.toStringAsFixed(2)}\n'
+                        '${localizations.total_calories_gained}: ${totalCaloriesGainedToday.toStringAsFixed(2)}\n'
                         '${localizations.new_total_calories}: ${newTotalCalories.toStringAsFixed(2)}',
                       ),
                     ),
